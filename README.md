@@ -1,8 +1,8 @@
 👋 Hi there, I'm Cornelius Mulyokela
 
 Junior @ Stetson University — CS & Applied Math (Data Science)  
-SWE & Medical Imaging Research Intern @ UPenn — building MRI signal tools with Python & Docker  
-Prev: SWE Intern @ ProWeb | Data Analyst @ COPOR
+Prev: SWE & Medical Imaging Research Intern @ UPenn — building MRI signal tools with Python & Docker  
+SWE Intern @ ProWeb | Data Analyst @ COPOR
 
 Currently Exploring:
 
