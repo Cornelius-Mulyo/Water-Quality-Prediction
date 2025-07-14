@@ -1,4 +1,4 @@
-👋 Hi there, I'm Cornelius Mulyokela
+👋Hi there, I'm Cornelius Mulyokela
 
 Junior @ Stetson University — CS & Applied Math (Data Science)  
 Prev: SWE & Medical Imaging Research Intern @ UPenn — building MRI signal tools with Python & Docker  
@@ -11,8 +11,7 @@ Currently Exploring:
 - Systems design for reproducible scientific computing
 -  I'm actively seeking Summer 2026 internships in Software Engineering, Quantitative Research, Data Science or Applied Machine Learning — let's build something impactful!
 
- Projects
-- Featured Projects
+Featured Projects
 
 - MRI Frequency Shift Tool (Python, Docker): Boosted MRI signal processing by 80% at UPenn  
 - Water Quality Predictor (scikit-learn): Classifier for potable water with optimized speed  
