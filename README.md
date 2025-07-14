@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there, I'm Cornelius Mulyokela
 
-<!--
-**Cornelius-Mulyo/Cornelius-Mulyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior @ Stetson University — CS & Applied Math (Data Science)  
+SWE & Medical Imaging Research Intern @ UPenn — building MRI signal tools with Python & Docker  
+Prev: SWE Intern @ ProWeb | Data Analyst @ COPOR
 
-Here are some ideas to get you started:
+Currently Exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Quantitative Modeling & Optimization
+- High-performance computing (NumPy, SciPy, C++)
+- Systems design for reproducible scientific computing
+-  I'm actively seeking Summer 2026 internships in Software Engineering, Quantitative Research, Data Science or Applied Machine Learning — let's build something impactful!
+
+ Projects
+- MRI Frequency Tool: Real-time MRI spectral analysis (Python, Docker)
+- Water Quality ML Model: 67.8% accurate classifier (scikit-learn)
+- Youth Link Zambia: Flask web app for 500+ youth docs
+
+Tools & Skills
+Python | Java | SQL | Flask | Docker | AWS | FastAPI | Tableau | C++ | R
+
+Connect
+[LinkedIn](https://linkedin.com/in/cornelius-mulyokela) 
