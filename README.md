@@ -21,4 +21,4 @@ Tools & Skills
 Python | Java | SQL | Flask | Docker | AWS | FastAPI | Tableau | C++ | R
 
 Connect:
-[LinkedIn]([ linkedin.com/in/cornelius-mulyokela](https://www.linkedin.com/in/cornelius-mulyokela-a65366225a) 
+LinkedIn: https://www.linkedin.com/in/cornelius-mulyokela-a65366225 
