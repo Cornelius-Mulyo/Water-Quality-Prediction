@@ -1,6 +1,6 @@
 👋Hi there, I'm Cornelius Mulyokela
 
-Junior @ Stetson University — CS & Applied Math (Data Science)  
+Junior @ Stetson University — CS & Applied Math (Data Science Concentration)  
 Prev: SWE & Medical Imaging Research Intern @ UPenn — building MRI signal tools with Python & Docker  
 SWE Intern @ ProWeb | Data Analyst @ COPOR
 
